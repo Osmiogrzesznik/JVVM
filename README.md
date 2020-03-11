@@ -1,3 +1,14 @@
+# Java Virtual Vending Machine - JVVM
+
+
+
+Although This project supposed to be exercise in basic OOP, I was much more interested in more advanced concepts explored during researching. While looking around OOP paradigm and design patterns on my own, I was particularly attracted by the core concept inspiring OOP – modularity. 
+Moreover , I found Automated Testing really attractive idea, implemented previously in Visual Basic calculator app, as at the time , coming from self-taught school of write – build – run -push buttons -see if it breaks, it opened new landscape of possibilities for me saving time spent on assuring that I did not broke anything else that was working before ( manual regression testing :D).
+
+I Used this assignment as exercise in building virtual representation of supposed internals of vending machines, as extra. Assignment required us to focus mainly on aspect of change dispension calculations. Since this part was a piece of cake for me , I desired intellectual stimulation , something that would be challenging enough to feel accomplished and not too complex to not fall out of flow state ( Lets be honest – to not fail whole module, due to overcomplicating the task and giving up midway :D ).
+
+Thus I played with interfaces, observer pattern , and building small nested menu system. Obvoiusly I believe I could do better , by designing more robust or versatile menu system, completely independent from Vending machine logic, and then interfacing it with particulars required by the system.  
+
 # Contents
 
 [Introduction 3](#_Toc532166271)
