@@ -1,6 +1,6 @@
 # Java Virtual Vending Machine - JVVM
 
-
+# (づ｡◕‿‿◕｡)づ    __｡O◯___ CLINK!!!
 
 Although This project supposed to be exercise in basic OOP, I was much more interested in more advanced concepts explored during researching. While looking around OOP paradigm and design patterns on my own, I was particularly attracted by the core concept inspiring OOP – modularity. 
 Moreover , I found Automated Testing really attractive idea, implemented previously in Visual Basic calculator app, as at the time , coming from self-taught school of write – build – run -push buttons -see if it breaks, it opened new landscape of possibilities for me saving time spent on assuring that I did not broke anything else that was working before ( manual regression testing :D).
